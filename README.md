@@ -2,4 +2,4 @@
 𝗢𝗻𝗲-𝗣𝗮𝗴𝗲_𝗗𝘆𝗻𝗮𝗺𝗶𝗰-𝗪𝗲𝗯𝘀𝗶𝘁𝗲
 
 
-![Screenshot 2023-05-05 142947](https://user-images.githubusercontent.com/92868018/236417287-41861476-40f2-47fc-9bbc-dfe66cf3348d.png)
+![236417287-41861476-40f2-47fc-9bbc-dfe66cf3348d](https://github.com/Anshu-Parmar/One-Page_Dynamic-Website/assets/92868018/950c99ba-47ee-46c7-8ea1-579e293a9bb6)
